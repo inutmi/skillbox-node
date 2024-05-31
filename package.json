@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/inutmi/skillbox-node/issues"
   },
-  "homepage": "https://github.com/inutmi/skillbox-node#readme"
+  "homepage": "https://github.com/inutmi/skillbox-node#readme",
+  "dependencies": {
+    "express": "^4.19.2",
+    "pg": "^8.11.5"
+  }
 }
